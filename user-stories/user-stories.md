@@ -1,0 +1,11 @@
+Here are five user stories that reflect the core interactions of the Airbnb Clone backend based on typical use case scenarios:
+- User Registration & Authentication
+- As a user, I want to be able to register an account so that I can list my properties or book stays securely.
+- Property Management
+- As a host, I want to be able to create and manage my property listings so that guests can find and book my accommodations.
+- Booking System
+- As a guest, I want to be able to book a property for specific dates so that I can plan my stay in advance.
+- Payment Processing
+- As a guest, I want to securely pay for my booking using various payment methods so that my reservation is confirmed.
+- Review and Rating System
+- As a guest, I want to leave a review and rating for a property after my stay so that future guests can make informed decisions.
